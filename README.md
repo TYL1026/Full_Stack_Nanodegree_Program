@@ -10,9 +10,9 @@ This project is used to practice :
                                   6. JWT token  
 ## Trivia_API
 This project is used to practice :                                  
-                                  1. End point creations
-                                  2. Error messages
-                                  3. Curl tests
+                                  1. End point creations  
+                                  2. Error messages  
+                                  3. Curl tests  
                                   4. POST, DELETE, GET, PATCH  
                                   5. SQL database  
 ## Coffee_Shop_API
